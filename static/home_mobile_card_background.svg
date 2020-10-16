@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="665px" viewBox="0 0 360 665" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 34</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="665" rx="16"></rect>
+        <rect id="path-3" x="0" y="0" width="97" height="97" rx="8"></rect>
+        <rect id="path-5" x="0" y="0" width="97" height="138" rx="8"></rect>
+        <rect id="path-7" x="0" y="0" width="97" height="253" rx="8"></rect>
+        <rect id="path-9" x="0" y="0" width="97" height="213" rx="48.5"></rect>
+        <rect id="path-11" x="0" y="0" width="97" height="244" rx="48.5"></rect>
+        <rect id="path-13" x="0" y="0" width="97" height="97" rx="48.5"></rect>
+        <path d="M48.5,0 C59.5950459,-2.03812687e-15 68.5893578,8.99431184 68.5893578,20.0893578 C68.5893578,25.4173867 66.4728065,30.5271935 62.7053211,34.2946789 L34.2946789,62.7053211 C26.4492967,70.5507033 13.7294189,70.5507033 5.88403666,62.7053211 C2.11655126,58.9378357 6.5249536e-16,53.828029 0,48.5 C-3.28031569e-15,21.7141896 21.7141896,4.92047354e-15 48.5,0 Z" id="path-15"></path>
+        <path d="M48.5,0 C59.5950459,-2.03812687e-15 68.5893578,8.99431184 68.5893578,20.0893578 C68.5893578,25.4173867 66.4728065,30.5271935 62.7053211,34.2946789 L34.2946789,62.7053211 C26.4492967,70.5507033 13.7294189,70.5507033 5.88403666,62.7053211 C2.11655126,58.9378357 6.5249536e-16,53.828029 0,48.5 C-3.28031569e-15,21.7141896 21.7141896,4.92047354e-15 48.5,0 Z" id="path-17"></path>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-34">
+            <g id="Group-Copy">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(54.000000, -78.000000)">
+                        <g id="Shape/square/bottom-emoji" transform="translate(107.000000, 33.000000)" fill-rule="evenodd" stroke-width="1">
+                            <g id="color_lavanda">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Mask" fill="#E8E8E8" xlink:href="#path-3"></use>
+                                <g id="color/lavanda" mask="url(#mask-4)" fill="#A594F0">
+                                    <rect id="Lavanda" x="0" y="0" width="97" height="97"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Square-Copy-7" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 33.000000)">
+                            <g id="color_lavanda">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="Mask" fill="#E8E8E8" xlink:href="#path-5"></use>
+                                <g id="color/peach" mask="url(#mask-6)" fill="#FFAE94">
+                                    <rect id="Ocean" x="0" y="0" width="97" height="138"></rect>
+                                </g>
+                            </g>
+                            <g id="emojis/cute" transform="translate(10.500000, 51.500000)" fill="#FFFFFF">
+                                <circle id="Oval" fill-rule="evenodd" cx="23.2653061" cy="29.4693878" r="3.10204082"></circle>
+                                <circle id="Oval-Copy" fill-rule="evenodd" cx="52.7346939" cy="29.4693878" r="3.10204082"></circle>
+                                <path d="M38,38 C43.1396295,38 47.3061224,42.1664929 47.3061224,47.3061224 C47.3061224,48.5910298 46.2644992,49.6326531 44.9795918,49.6326531 C43.7702672,49.6326531 42.7764469,48.7099695 42.6637114,47.5301829 L42.6530612,47.3061224 C42.6530612,44.7363077 40.5698148,42.6530612 38,42.6530612 C35.4301852,42.6530612 33.3469388,44.7363077 33.3469388,47.3061224 C33.3469388,48.5910298 32.3053155,49.6326531 31.0204082,49.6326531 C29.7355008,49.6326531 28.6938776,48.5910298 28.6938776,47.3061224 C28.6938776,42.1664929 32.8603705,38 38,38 Z" id="Oval" fill-rule="nonzero" transform="translate(38.000000, 43.816327) rotate(-180.000000) translate(-38.000000, -43.816327) "></path>
+                            </g>
+                        </g>
+                        <g id="Shape/square/bottom-emoji" transform="translate(221.000000, 632.000000)" fill-rule="evenodd" stroke-width="1">
+                            <g id="color_lavanda">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <use id="Mask" fill="#E8E8E8" xlink:href="#path-7"></use>
+                                <g id="color/ocean" mask="url(#mask-8)" fill="#4FC5D5">
+                                    <rect id="Ocean" x="0" y="0" width="97" height="253"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Shape/circle/bottom-emoji" transform="translate(221.000000, 0.000000)" fill-rule="evenodd" stroke-width="1">
+                            <g id="color_lavanda">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <use id="Mask" fill="#C1C1C1" xlink:href="#path-9"></use>
+                                <g id="color/yellow" mask="url(#mask-10)" fill="#F3D239">
+                                    <rect id="Yellow" x="0" y="0" width="97" height="213"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Shape/circle/top-emoji" transform="translate(107.000000, 541.000000)" fill-rule="evenodd" stroke-width="1">
+                            <g id="color_lavanda">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <use id="Mask" fill="#C1C1C1" xlink:href="#path-11"></use>
+                                <g id="color/lavanda" mask="url(#mask-12)" fill="#A594F0">
+                                    <rect id="Lavanda" x="0" y="0" width="97" height="244"></rect>
+                                </g>
+                            </g>
+                            <g id="emojis/sleeping" transform="translate(24.000000, 24.000000)" fill="#FFFFFF">
+                                <g id="Group" transform="translate(7.000000, 12.000000)">
+                                    <g id="noun_emoji_2947147" transform="translate(17.500000, 3.500000) rotate(-180.000000) translate(-17.500000, -3.500000) " fill-rule="nonzero">
+                                        <path d="M1.41632088,6.28125 C2.19847857,6.28125 2.83264176,5.63804215 2.83264176,4.84472907 C2.83264176,3.91253358 3.58091284,3.15429186 4.5,3.15429186 C5.41908716,3.15429186 6.16735824,3.91253358 6.16735824,4.84472907 C6.16735824,5.63804215 6.80152143,6.28125 7.58367912,6.28125 C8.3658368,6.28125 9,5.63804215 9,4.84472907 C9,2.32871323 6.98132776,0.28125 4.5,0.28125 C2.01867224,0.28125 0,2.32871323 0,4.84472907 C0,5.63804215 0.634163199,6.28125 1.41632088,6.28125 Z" id="Path"></path>
+                                        <path d="M27.4164297,6.28125 C28.1986475,6.28125 28.8328595,5.63804215 28.8328595,4.84472907 C28.8328595,3.91253358 29.581188,3.15429186 30.5003458,3.15429186 C31.4195036,3.15429186 32.1671405,3.91253358 32.1671405,4.84472907 C32.1671405,5.63804215 32.8013525,6.28125 33.5835703,6.28125 C34.3657881,6.28125 35,5.63804215 35,4.84472907 C35,2.32871323 32.9811726,0.28125 30.5003458,0.28125 C28.0188274,0.28125 26,2.32871323 26,4.84472907 C26,5.63804215 26.6342119,6.28125 27.4164297,6.28125 Z" id="Path"></path>
+                                    </g>
+                                    <circle id="Oval" cx="17" cy="20" r="4"></circle>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Shape/circle/bottom-emoji" transform="translate(107.000000, 147.000000)">
+                            <g id="color_lavanda" stroke-width="1" fill-rule="evenodd">
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <use id="Mask" fill="#C1C1C1" xlink:href="#path-13"></use>
+                                <g id="color/Petrol" mask="url(#mask-14)" fill="#25204F">
+                                    <rect id="color_petrol" x="0" y="0" width="97" height="97"></rect>
+                                </g>
+                            </g>
+                            <g id="emojis/glasses" transform="translate(24.000000, 24.000000)" fill="#FFFFFF">
+                                <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(20.000000, 14.000000)">
+                                    <g id="noun_emoji_2947147" fill-rule="nonzero">
+                                        <path d="M1.41642973,6 C2.19864752,6 2.83285945,5.35679215 2.83285945,4.56347907 C2.83285945,3.63128358 3.58118803,2.87304186 4.50034582,2.87304186 C5.41950361,2.87304186 6.16714055,3.63128358 6.16714055,4.56347907 C6.16714055,5.35679215 6.80135248,6 7.58357027,6 C8.36578807,6 9,5.35679215 9,4.56347907 C9,2.04746323 6.98117263,0 4.50034582,0 C2.01882737,0 0,2.04746323 0,4.56347907 C0,5.35679215 0.634211934,6 1.41642973,6 Z" id="Path-Copy"></path>
+                                    </g>
+                                    <path d="M4.5,24.6633652 C6.98528137,24.6633652 9,22.6486466 9,20.1633652 C9,17.6780839 6.98528137,19.0383652 4.5,19.0383652 C2.01471863,19.0383652 0,17.6780839 0,20.1633652 C0,22.6486466 2.01471863,24.6633652 4.5,24.6633652 Z" id="Oval"></path>
+                                </g>
+                                <path d="M11.5,7.5 C5.9771525,7.5 1.5,11.9771525 1.5,17.5 C1.5,23.0228475 5.9771525,27.5 11.5,27.5 C17.0228475,27.5 21.5,23.0228475 21.5,17.5 C21.5,11.9771525 17.0228475,7.5 11.5,7.5 Z M11.5,10.5 C15.3659932,10.5 18.5,13.6340068 18.5,17.5 C18.5,21.3659932 15.3659932,24.5 11.5,24.5 C7.63400675,24.5 4.5,21.3659932 4.5,17.5 C4.5,13.6340068 7.63400675,10.5 11.5,10.5 Z" id="Oval" fill-rule="nonzero"></path>
+                                <path d="M37.5,7.5 C31.9771525,7.5 27.5,11.9771525 27.5,17.5 C27.5,23.0228475 31.9771525,27.5 37.5,27.5 C43.0228475,27.5 47.5,23.0228475 47.5,17.5 C47.5,11.9771525 43.0228475,7.5 37.5,7.5 Z M37.5,10.5 C41.3659932,10.5 44.5,13.6340068 44.5,17.5 C44.5,21.3659932 41.3659932,24.5 37.5,24.5 C33.6340068,24.5 30.5,21.3659932 30.5,17.5 C30.5,13.6340068 33.6340068,10.5 37.5,10.5 Z" id="Oval-Copy" fill-rule="nonzero"></path>
+                                <path d="M37.5,18 C38.8807119,18 40,18.8807119 40,17.5 C40,16.1192881 38.8807119,15 37.5,15 C36.1192881,15 35,16.1192881 35,17.5 C35,18.8807119 36.1192881,18 37.5,18 Z" id="Oval" fill-rule="evenodd"></path>
+                                <path d="M11.5,18 C12.8807119,18 14,18.8807119 14,17.5 C14,16.1192881 12.8807119,15 11.5,15 C10.1192881,15 9,16.1192881 9,17.5 C9,18.8807119 10.1192881,18 11.5,18 Z" id="Oval-Copy-2" fill-rule="evenodd"></path>
+                            </g>
+                        </g>
+                        <g id="Shape/triangle" transform="translate(269.500000, 282.500000) rotate(-270.000000) translate(-269.500000, -282.500000) translate(221.000000, 234.000000)" fill-rule="evenodd" stroke-width="1">
+                            <g id="color_lavanda">
+                                <mask id="mask-16" fill="white">
+                                    <use xlink:href="#path-15"></use>
+                                </mask>
+                                <use id="Mask" fill="#E8E8E8" xlink:href="#path-15"></use>
+                                <g id="color/clementine" mask="url(#mask-16)" fill="#EE7552">
+                                    <rect id="Clementine" x="0" y="0" width="97" height="97"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Shape/triangle" transform="translate(269.500000, 566.500000) rotate(-90.000000) translate(-269.500000, -566.500000) translate(221.000000, 518.000000)" fill-rule="evenodd" stroke-width="1">
+                            <g id="color_lavanda">
+                                <mask id="mask-18" fill="white">
+                                    <use xlink:href="#path-17"></use>
+                                </mask>
+                                <use id="Mask" fill="#E8E8E8" xlink:href="#path-17"></use>
+                                <g id="color/peach" mask="url(#mask-18)" fill="#FFAE94">
+                                    <rect id="Ocean" x="0" y="0" width="97" height="97"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

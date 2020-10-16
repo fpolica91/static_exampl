@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253" height="205" viewBox="0 0 253 205">
+    <defs>
+        <path id="a" d="M8 0h81.757a3 3 0 0 1 2.122 5.121L5.12 91.88A3 3 0 0 1 0 89.757V8a8 8 0 0 1 8-8z"/>
+        <path id="c" d="M8 0h93.757a3 3 0 0 1 2.122 5.121L5.12 103.88A3 3 0 0 1 0 101.757V8a8 8 0 0 1 8-8z"/>
+        <path id="e" d="M8 0h55.757a3 3 0 0 1 2.122 5.121L5.12 65.88A3 3 0 0 1 0 63.757V8a8 8 0 0 1 8-8z"/>
+        <path id="g" d="M8 0h55.757a3 3 0 0 1 2.122 5.121L5.12 65.88A3 3 0 0 1 0 63.757V8a8 8 0 0 1 8-8z"/>
+        <path id="i" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="k" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="m" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="o" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="q" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="s" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="u" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="w" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+        <path id="y" d="M7.5 0h.257A3 3 0 0 1 9.88 5.121L5.12 9.88A3 3 0 0 1 0 7.757V7.5A7.5 7.5 0 0 1 7.5 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="rotate(45 -97.064 230)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#a"/>
+            <g fill="#4FC5D5" mask="url(#b)">
+                <path d="M0 0h97v97H0z"/>
+            </g>
+        </g>
+        <g transform="rotate(45 35.096 175.257)">
+            <mask id="d" fill="#fff">
+                <use xlink:href="#c"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#c"/>
+            <g fill="#25204F" mask="url(#d)">
+                <path d="M0 0h109v109H0z"/>
+            </g>
+        </g>
+        <g transform="rotate(135 22.061 99.056)">
+            <mask id="f" fill="#fff">
+                <use xlink:href="#e"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#e"/>
+            <g fill="#4FC5D5" mask="url(#f)">
+                <path d="M0 0h71v71H0z"/>
+            </g>
+        </g>
+        <g transform="rotate(-45 265.939 -117.95)">
+            <mask id="h" fill="#fff">
+                <use xlink:href="#g"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#g"/>
+            <g fill="#4FC5D5" mask="url(#h)">
+                <path d="M0 0h71v71H0z"/>
+            </g>
+        </g>
+        <g transform="matrix(.86603 .5 .5 -.86603 19 99.221)">
+            <mask id="j" fill="#fff">
+                <use xlink:href="#i"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#i"/>
+            <g fill="#25204F" mask="url(#j)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="scale(1 -1) rotate(-30 68.278 -346.215)">
+            <mask id="l" fill="#fff">
+                <use xlink:href="#k"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#k"/>
+            <g fill="#4FC5D5" mask="url(#l)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="scale(-1 1) rotate(-45 12.019 102.35)">
+            <mask id="n" fill="#fff">
+                <use xlink:href="#m"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#m"/>
+            <g fill="#4FC5D5" mask="url(#n)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="scale(1 -1) rotate(-15 -157.48 -855.523)">
+            <mask id="p" fill="#fff">
+                <use xlink:href="#o"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#o"/>
+            <g fill="#FFAE94" mask="url(#p)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="scale(1 -1) rotate(79 40.573 -22.82)">
+            <mask id="r" fill="#fff">
+                <use xlink:href="#q"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#q"/>
+            <g fill="#EE7552" mask="url(#r)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="scale(-1 1) rotate(30 -307.835 -408.006)">
+            <mask id="t" fill="#fff">
+                <use xlink:href="#s"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#s"/>
+            <g fill="#EE7552" mask="url(#t)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="scale(-1 1) rotate(36 -55.5 -186.394)">
+            <mask id="v" fill="#fff">
+                <use xlink:href="#u"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#u"/>
+            <g fill="#F3D239" mask="url(#v)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="scale(1 -1) rotate(-30 -276.868 -80.696)">
+            <mask id="x" fill="#fff">
+                <use xlink:href="#w"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#w"/>
+            <g fill="#FFAE94" mask="url(#x)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+        <g transform="rotate(150 106.798 112.405)">
+            <mask id="z" fill="#fff">
+                <use xlink:href="#y"/>
+            </mask>
+            <use fill="#E8E8E8" xlink:href="#y"/>
+            <g fill="#A594F0" mask="url(#z)">
+                <path d="M0 0h15v15H0z"/>
+            </g>
+        </g>
+    </g>
+</svg>

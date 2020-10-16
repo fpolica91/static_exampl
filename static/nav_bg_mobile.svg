@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="512px" viewBox="0 0 375 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu" fill="#4FC5D5">
+            <path d="M187.151066,511.077651 C210.523579,511.077651 233.629787,509.937458 256.4171,507.709661 C296.649303,503.776368 337.045319,496.452821 375,486.02844 C375.777489,485.8149 375.777489,323.80542 375,0 L4.97241137e-14,0 C-0.156386746,323.989345 -0.156386746,486.005485 3.34909878e-12,486.048419 C38.1117579,496.51151 78.050087,503.848133 118.456492,507.765296 C158.862896,511.682458 163.973908,511.077651 187.151066,511.077651 Z" id="Mask"></path>
+        </g>
+    </g>
+</svg>

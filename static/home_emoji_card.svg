@@ -1,0 +1,68 @@
+<svg width="293" height="263" viewBox="0 0 293 263" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect x="107.5" y="-35" width="97" height="97" rx="8" fill="#E8E8E8"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="107" y="-35" width="98" height="97">
+<rect x="107.5" y="-35" width="97" height="97" rx="8" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="107.5" y="-35" width="97" height="97" fill="#A594F0"/>
+</g>
+</g>
+<g clip-path="url(#clip1)">
+<rect x="0.5" y="-35" width="97" height="138" rx="8" fill="#E8E8E8"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="-35" width="98" height="138">
+<rect x="0.5" y="-35" width="97" height="138" rx="8" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="0.5" y="-35" width="97" height="138" fill="#FFAE94"/>
+</g>
+</g>
+<circle cx="39.5" cy="49" r="2" fill="white"/>
+<circle cx="58.5" cy="49" r="2" fill="white"/>
+<path d="M49 62C45.6863 62 43 59.3137 43 56C43 55.1716 43.6716 54.5 44.5 54.5C45.2797 54.5 45.9204 55.0949 45.9931 55.8555L46 56C46 57.6569 47.3431 59 49 59C50.6569 59 52 57.6569 52 56C52 55.1716 52.6716 54.5 53.5 54.5C54.3284 54.5 55 55.1716 55 56C55 59.3137 52.3137 62 49 62Z" fill="white"/>
+<g clip-path="url(#clip2)">
+<rect x="221.5" y="-68" width="97" height="213" rx="48.5" fill="#C1C1C1"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="221" y="-68" width="98" height="213">
+<rect x="221.5" y="-68" width="97" height="213" rx="48.5" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<rect x="221.5" y="-68" width="97" height="213" fill="#F3D239"/>
+</g>
+</g>
+<g clip-path="url(#clip3)">
+<rect x="107.5" y="79" width="97" height="97" rx="48.5" fill="#C1C1C1"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="107" y="79" width="98" height="97">
+<rect x="107.5" y="79" width="97" height="97" rx="48.5" fill="white"/>
+</mask>
+<g mask="url(#mask3)">
+<rect x="107.5" y="79" width="97" height="97" fill="#25204F"/>
+</g>
+</g>
+<path d="M152.916 123C153.699 123 154.333 122.357 154.333 121.563C154.333 120.631 155.081 119.873 156 119.873C156.92 119.873 157.667 120.631 157.667 121.563C157.667 122.357 158.301 123 159.084 123C159.866 123 160.5 122.357 160.5 121.563C160.5 119.047 158.481 117 156 117C153.519 117 151.5 119.047 151.5 121.563C151.5 122.357 152.134 123 152.916 123Z" fill="white"/>
+<ellipse cx="156" cy="138.665" rx="4.5" ry="2.99825" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M133 120.5C133 114.977 137.477 110.5 143 110.5C148.523 110.5 153 114.977 153 120.5C153 126.023 148.523 130.5 143 130.5C137.477 130.5 133 126.023 133 120.5ZM150 120.5C150 116.634 146.866 113.5 143 113.5C139.134 113.5 136 116.634 136 120.5C136 124.366 139.134 127.5 143 127.5C146.866 127.5 150 124.366 150 120.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M159 120.5C159 114.977 163.477 110.5 169 110.5C174.523 110.5 179 114.977 179 120.5C179 126.023 174.523 130.5 169 130.5C163.477 130.5 159 126.023 159 120.5ZM176 120.5C176 116.634 172.866 113.5 169 113.5C165.134 113.5 162 116.634 162 120.5C162 124.366 165.134 127.5 169 127.5C172.866 127.5 176 124.366 176 120.5Z" fill="white"/>
+<ellipse cx="169" cy="119.638" rx="2.5" ry="1.63838" fill="white"/>
+<ellipse cx="143" cy="119.638" rx="2.5" ry="1.63838" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M290.089 166C305.78 166 318.5 178.72 318.5 194.411C318.5 219.722 287.898 232.398 270 214.5C252.102 196.602 264.778 166 290.089 166Z" fill="#E8E8E8"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="261" y="166" width="58" height="57">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M290.089 166C305.78 166 318.5 178.72 318.5 194.411C318.5 219.722 287.898 232.398 270 214.5C252.102 196.602 264.778 166 290.089 166Z" fill="white"/>
+</mask>
+<g mask="url(#mask4)">
+<rect x="318.5" y="166" width="97" height="97" transform="rotate(90 318.5 166)" fill="#EE7552"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="97" height="97" fill="white" transform="translate(107.5 -35)"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="97" height="138" fill="white" transform="translate(0.5 -35)"/>
+</clipPath>
+<clipPath id="clip2">
+<rect width="97" height="213" fill="white" transform="translate(221.5 -68)"/>
+</clipPath>
+<clipPath id="clip3">
+<rect width="97" height="97" fill="white" transform="translate(107.5 79)"/>
+</clipPath>
+</defs>
+</svg>

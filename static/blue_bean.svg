@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="7px" viewBox="0 0 8 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Bean@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.00426795,1.0043252 L5.00429657,1.00432517 C5.91697004,1.00333724 6.65763894,1.7424044 6.65862687,2.65507786 C6.65910196,3.09397901 6.48495952,3.51504048 6.17460936,3.82539064 L3.8253704,6.1746296 C3.18001052,6.81998948 2.13367541,6.81998948 1.48831553,6.1746296 C1.17796735,5.86428142 1.00382462,5.44322352 1.00429657,5.00432517 C1.006671,2.79618162 2.79612441,1.00671542 5.00426795,1.0043252 Z" id="path-1"></path>
+    </defs>
+    <g id="Bean" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask-Copy-6" fill="#4FC5D5" transform="translate(5.000000, 5.000000) rotate(-351.000000) translate(-5.000000, -5.000000) " xlink:href="#path-1"></use>
+    </g>
+</svg>
